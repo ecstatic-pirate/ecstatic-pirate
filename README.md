@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ecstatic-pirate
 - 👀 I’m interested in product and tech.
 - 🌱 I’m currently building awesome stuff in web3 & web2.
-- 👏🏽 I share my learnings and notes [here](https://shantanu-garg.web.app)
+- 👏🏽 I share my learnings and notes [here](https://shantanugarg.dev/)
 - 📫 Reach out to me on [twitter](https://twitter.com/EcstaticPirate) or [email](mailto:shantanu.garg@alumni.ie.edu).
 
 <!---
